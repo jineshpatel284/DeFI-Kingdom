@@ -6,11 +6,11 @@ ERC20 contract unveils ERC20 token named "Jinesh" (JNP), alongside a Vault contr
 
 1. Create Avalanche Subnet: Run the following command to create an Avalanche subnet named "Mac":
 
-    avalanche subnet create mac
+    `avalanche subnet create mac`
 
 2. Deploy Subnet: Deploy the subnet using the command:
 
-    avalanche subnet deploy mac
+    `avalanche subnet deploy mac`
 
 3. Connect to MetaMask: Ensure that MetaMask, a cryptocurrency wallet and gateway to blockchain apps, is connected to the Avalanche network to interact with smart contracts and deploy transactions securely.
 
